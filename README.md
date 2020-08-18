@@ -21,16 +21,6 @@
 
 </div>
 
-<a href="https://github.com/andersonmatte/APPBuscaPorCep">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=andersonmatte&repo=APPBuscaPorCep" />
-</a>
-<a href="https://github.com/andersonmatte/WebServiceRestKotlin">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=andersonmatte&repo=WebServiceRestKotlin" />
-</a>    
-<a href="https://github.com/andersonmatte/RLanguageImportJson">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=andersonmatte&repo=RLanguageImportJson" />
-</a>
-<br />
 <br />
 
 <div align="center">
