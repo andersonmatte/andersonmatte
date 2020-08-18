@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi there, I'm [Anderson Matte!](https://twitter.com/anderson_matte) 👋
 
-<!--
-**andersonmatte/andersonmatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<i>Você me encontra nas redes sociais:</i><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/andersonmatte/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/anderson_matte" target="_blank">
+	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
+</a>
+
+</div>
+<br/>
+
+<a href="https://github.com/andersonmatte/Xamarin.Forms.NeoControls">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=andersonmatte&hide=Batchfile" />
+</a>
+<a href="https://github.com/andersonmatte/Xamarin.Forms.NeoControls">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=andersonmatte&show_icons=true&line_height=27" alt="Anderson's github stats" />
+</a>
+
+<a href="https://github.com/andersonmatte/SkiaSharp.Forms.Xaml">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=andersonmatte&repo=SkiaSharp.Forms.Xaml" />
+</a>    
+<a href="https://github.com/andersonmatte/Xamarin.Forms.NeoControls">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=andersonmatte&repo=Xamarin.Forms.NeoControls" />
+</a>
+<br />
+<br />
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/andersonmatte/andersonmatte.svg)](http://hits.dwyl.com/andersonmatte/andersonmatte)
+
+</div>
