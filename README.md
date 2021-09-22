@@ -1,4 +1,4 @@
-### Hi there, I'm [Anderson Matte!](https://twitter.com/anderson_matte) 👋
+### Hi there, I'm [Anderson Matte!](https://www.linkedin.com/in/andersonmatte/) 👋
 <div align="center">
    <i>You find me on social networks:</i><br>
    <a href="https://www.linkedin.com/in/andersonmatte/" target="_blank">
