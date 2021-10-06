@@ -1,4 +1,7 @@
 ### Hi there, I'm [Anderson Matte!](https://www.linkedin.com/in/andersonmatte/) 👋 </br>
+
+![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
+
 ### My personal page [Anderson Matte!](https://andersonmatte.github.io/)
 <div align="center">
    <i>You find me on social networks:</i><br>
@@ -23,6 +26,6 @@
 </a>
 
 
-![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
+
    
 [![HitCount](http://hits.dwyl.com/andersonmatte/andersonmatte.svg)](http://hits.dwyl.com/andersonmatte/andersonmatte)
