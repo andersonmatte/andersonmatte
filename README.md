@@ -13,4 +13,4 @@
 
 ![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
 
-[![HitCount](http://hits.dwyl.com/andersonmatte/andersonmatte.svg)](http://hits.dwyl.com/andersonmatte/andersonmatte)
+[![HitCount](https://visitor-badge.glitch.me/badge?page_id=andersonmatte)]
