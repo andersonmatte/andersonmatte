@@ -25,7 +25,7 @@
 <div align="center">
 ![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
 </div>
-
+ 
 <br />
 
 <div align="center">
