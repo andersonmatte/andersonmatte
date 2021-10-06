@@ -22,10 +22,7 @@
    <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=andersonmatte&langs_count=10" />
 </a>
 
-<div align="center">
+
 ![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
-
    
-   [![HitCount](http://hits.dwyl.com/andersonmatte/andersonmatte.svg)](http://hits.dwyl.com/andersonmatte/andersonmatte)
-
-</div>
+[![HitCount](http://hits.dwyl.com/andersonmatte/andersonmatte.svg)](http://hits.dwyl.com/andersonmatte/andersonmatte)
