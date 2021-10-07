@@ -9,8 +9,11 @@
 			<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=andersonmatte&show_icons=true"/>
 		</td>
 		</tr>
+		
+	![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
+	
+	![HitCount](https://visitor-badge.glitch.me/badge?page_id=andersonmatte)
+		
 	</table>
 </center>
-	![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
-	![HitCount](https://visitor-badge.glitch.me/badge?page_id=andersonmatte)
 
