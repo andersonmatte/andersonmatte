@@ -1,5 +1,4 @@
 ### Hi there, I'm [Anderson Matte!](https://www.linkedin.com/in/andersonmatte/) 👋 , My personal page [is here](https://andersonmatte.github.io/)</br>
-
 <center>
 	<table>
 		<tr>
@@ -11,7 +10,7 @@
 		</td>
 		</tr>
 	</table>
+</center>
 	![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
 	![HitCount](https://visitor-badge.glitch.me/badge?page_id=andersonmatte)
-</center>
 
