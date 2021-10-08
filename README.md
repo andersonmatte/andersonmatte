@@ -1,10 +1,4 @@
 ### Hi there, I'm [Anderson Matte!](https://www.linkedin.com/in/andersonmatte/) 👋 , My personal page [is here](https://andersonmatte.github.io/)</br>
-
-<style>
-.markdown-body tbody {
-  border: none;
-}
-</style>
 <center>
 	<table style="overflow-x: hidden; border:none;">
 		<tr>
