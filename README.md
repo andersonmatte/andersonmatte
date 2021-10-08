@@ -1,6 +1,6 @@
 ### Hi there, I'm [Anderson Matte!](https://www.linkedin.com/in/andersonmatte/) 👋 , My personal page [is here](https://andersonmatte.github.io/)</br>
 <center>
-	<table style="overflow-x: hidden;">
+	<table style="overflow-x: hidden; border: none;">
 		<tr>
 		<td>
 			<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmatte&layout=compact"/>
