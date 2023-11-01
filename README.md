@@ -14,5 +14,4 @@
 
 ![image](https://github.com/andersonmatte/andersonmatte/blob/master/dino.gif)
 
-![HitCount](https://visitor-badge.glitch.me/badge?page_id=andersonmatte)
 
