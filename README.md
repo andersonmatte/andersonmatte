@@ -3,7 +3,7 @@
 	<table style="overflow-x: hidden;">
 		<tr>
 		<td>
-			<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmatte&layout=compact&hide=python,html,css,cmake"/>
+			<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmatte&layout=compact&hide=python,html,css,cmake,php,CoffeeScript"/>
 		</td>
 		<td>
 			<img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=andersonmatte&show_icons=true"/>
