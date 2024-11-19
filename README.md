@@ -1,7 +1,9 @@
 ## Olá, me chamo [Anderson Matte!](https://www.linkedin.com/in/andersonmatte/) 👋 </br>
 
-#### Tenho 14 anos de experiência profissional em TI, com foco em liderança e gerenciamento de equipes, com grande conhecimento em Java, Android, Flutter, Angular.
-#### Cursando Arquitetura de Software e Arquitetura de Soluções, tenho pós-graduações em Data Science, Docência do Ensino Superior e Psicopedagogia, além de graduação em Análise e Desenvolvimento de Sistemas e curso de extensão em Programação para Dispositivos Móveis.
+#### Tenho mais de 14 anos de experiência em tecnologia, especializado em liderança e gerenciamento de equipes de alto desempenho. 
+#### Tenho domínio em linguagens e frameworks como Java, Android, Flutter, Ionic e Angular.
+
+#### Com uma sólida formação acadêmica, incluindo pós-graduação em Arquitetura de Software, Arquitetura de Soluções, Data Science, Docência do Ensino Superior e Psicopedagogia. Também sou graduado em Análise e Desenvolvimento de Sistemas e tenho um curso de extensão em Programação para Dispositivos Móveis.
 
 <center>
 	<table style="overflow-x: hidden;">
