@@ -1,6 +1,6 @@
-## Olá, me chamo [Anderson Matte!](https://www.linkedin.com/in/andersonmatte/) 👋 </br>
+### Olá, me chamo [Anderson Matte!](https://www.linkedin.com/in/andersonmatte/) 👋 </br>
 
-#### Profissional com mais de 15 anos de experiência em tecnologia, com forte atuação em liderança técnica e gerenciamento de equipes de alto desempenho. 
+### Profissional com mais de 15 anos de experiência em tecnologia, com forte atuação em liderança técnica e gerenciamento de equipes de alto desempenho. 
 ### Possuo expertise em desenvolvimento de sistemas e aplicativos, com domínio nas tecnologias Java, Android, Flutter, Ionic e Angular.
 
 ### Tenho uma base acadêmica robusta, com pós-graduações em Arquitetura de Software, Arquitetura de Soluções, Data Science, Docência no Ensino Superior e Psicopedagogia. Sou graduado em Análise e Desenvolvimento de Sistemas e concluí um curso de extensão em Programação para Dispositivos Móveis.
