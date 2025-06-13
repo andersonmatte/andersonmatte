@@ -27,7 +27,7 @@
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/andersonmatte/)
 - 📰 [**Artigos no Medium**](https://medium.com/@anderson.matte)
 - 📱 [**Apps publicados na Play Store**](https://play.google.com/store/apps/dev?id=5375128912520051058)
-- 📦 [**Pacotes no pub.dev**](https://pub.dev/my-packages)
+- 📦 [**Pacotes no pub.dev**](https://pub.dev/publishers/webmatte.com.br/packages)
 
 ---
 
