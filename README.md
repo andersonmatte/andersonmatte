@@ -23,8 +23,7 @@
 ---
 
 ### 🌐 Conecte-se comigo:
-- 📊 [**Portal de Estudos de Bioinformática**](https://webmatte.com.br/Bioinformatica/)
-- 🌎 [**Site Pessoal**](https://webmatte.com.br/portifolio)
+- 🧬 [**Portal de Estudos de Bioinformática**](https://webmatte.com.br/Bioinformatica/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/andersonmatte/)
 - 📰 [**Artigos no Medium**](https://medium.com/@anderson.matte)
 - 📱 [**Apps publicados na Play Store**](https://play.google.com/store/apps/dev?id=5375128912520051058)
