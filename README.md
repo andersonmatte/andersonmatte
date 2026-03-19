@@ -23,11 +23,13 @@
 ---
 
 ### 🌐 Conecte-se comigo:
+- 📊 [**Portal de Estudos de Bioinformática**](https://webmatte.com.br/Bioinformatica/)
 - 🌎 [**Site Pessoal**](https://webmatte.com.br/portifolio)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/andersonmatte/)
 - 📰 [**Artigos no Medium**](https://medium.com/@anderson.matte)
 - 📱 [**Apps publicados na Play Store**](https://play.google.com/store/apps/dev?id=5375128912520051058)
 - 📦 [**Pacotes no pub.dev**](https://pub.dev/publishers/webmatte.com.br/packages)
+- 🎓 [**Lattes**](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K1135547Y8)
 
 ---
 
