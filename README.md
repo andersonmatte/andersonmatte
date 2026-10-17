@@ -86,6 +86,10 @@ Entre os temas de interesse estão:
 
 ## 🎓 Formação
 
+### 📖 MBA
+* MBA em **Geerenciamento de Projetos**
+  
+### 📖 Pós-graduação
 * Pós-graduação em **Gestão De Informática Em Saúde**
 * Pós-graduação em **Administração de Servidores Linux**
 * Pós-graduação em **Arquitetura de Software**
@@ -93,9 +97,13 @@ Entre os temas de interesse estão:
 * Pós-graduação em **Data Science e Big Data Analytics**
 * Pós-graduação em **Docência do Ensino Superior**
 * Pós-graduação em **Psicopedagogia**
+
+### 📖 Curso de extensão
 * Curso de extensão em **Comandos Avançados do Linux**
 * Curso de extensão em **Comandos Intermediários do Linux**
 * Curso de extensão em **Programação de Computadores e Dispositivos Móveis**
+
+### 📖 Graduação
 * Graduação em **Análise e Desenvolvimento de Sistemas**
 
 ---
