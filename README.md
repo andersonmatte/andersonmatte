@@ -9,9 +9,9 @@ Desenvolvedor de software com mais de 15 anos de experiência construindo aplica
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderson%20Matte-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/andersonmatte/)
-[![Medium](https://img.shields.io/badge/Medium-Artigos-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@andersonmatte)
-[![Lattes](https://img.shields.io/badge/Currículo-Lattes-006699?style=for-the-badge)](http://lattes.cnpq.br/)
-[![Play Store](https://img.shields.io/badge/Google_Play-Apps-414141?style=for-the-badge\&logo=google-play\&logoColor=white)](https://play.google.com/store/apps/dev?id=andersonmatte)
+[![Medium](https://img.shields.io/badge/Medium-Artigos-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@anderson.matte)
+[![Lattes](https://img.shields.io/badge/Currículo-Lattes-006699?style=for-the-badge)](http://lattes.cnpq.br/8025680832155113)
+[![Play Store](https://img.shields.io/badge/Google_Play-Apps-414141?style=for-the-badge\&logo=google-play\&logoColor=white)](https://play.google.com/store/apps/dev?id=5375128912520051058)
 
 </div>
 
@@ -147,10 +147,10 @@ Principais áreas de atuação:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/andersonmatte/)
-[![Medium](https://img.shields.io/badge/Medium-Artigos-000000?style=flat-square\&logo=medium)](https://medium.com/@andersonmatte)
-[![Play Store](https://img.shields.io/badge/Google_Play-Apps-414141?style=flat-square\&logo=google-play)](https://play.google.com/store/apps/dev?id=andersonmatte)
-[![pub.dev](https://img.shields.io/badge/pub.dev-Packages-0175C2?style=flat-square\&logo=dart)](https://pub.dev/)
-[![Lattes](https://img.shields.io/badge/Lattes-Currículo-006699?style=flat-square)](http://lattes.cnpq.br/)
+[![Medium](https://img.shields.io/badge/Medium-Artigos-000000?style=flat-square\&logo=medium)](https://medium.com/@anderson.matte)
+[![Play Store](https://img.shields.io/badge/Google_Play-Apps-414141?style=flat-square\&logo=google-play)](https://play.google.com/store/apps/dev?id=5375128912520051058)
+[![pub.dev](https://img.shields.io/badge/pub.dev-Packages-0175C2?style=flat-square\&logo=dart)](https://pub.dev/publishers/webmatte.com.br/packages)
+[![Lattes](https://img.shields.io/badge/Lattes-Currículo-006699?style=flat-square)](http://lattes.cnpq.br/8025680832155113)
 
 </div>
 
