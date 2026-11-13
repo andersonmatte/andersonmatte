@@ -80,7 +80,7 @@ Entre os temas de interesse estão:
 
 `HL7` • `FHIR` • `openEHR` • `RNDS` • `Interoperabilidade` • `Bioinformática` • `Sistemas Hospitalares`
 
-🧬 [Portal de Estudos de Bioinformática](https://webmatte.com.br)
+🧬 [Portal de Estudos de Bioinformática]((https://webmatte.com.br/Bioinformatica/))
 
 ---
 
